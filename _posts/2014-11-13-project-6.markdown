@@ -1,0 +1,16 @@
+---
+title: Lockertopia
+subtitle: A simple notification based learning mangement system (LMS).
+layout: default
+modal-id: 6
+date: 2014-01-06
+img: lockertopia.png
+thumbnail: lockertopia.png
+alt: image-alt
+project-date: March 2014
+category: Full Stack Development
+link: http://www.github.com/pbardea/lockertopia
+linkTitle: View on Github
+description:  A web application which allows users to send and recieve notification from groups to which they can be enrolled in. Front end was developed using HTML and Bootstrap, which the server-side development and database development was done using PHP and MySQL respectively. The user's passwords are secured by hashing with MD5 and salting with a unique random salt generate for each user.
+
+---

@@ -1,0 +1,16 @@
+---
+title: Leap Rock Paper Scissors
+subtitle: A game of rock paper scissors using the Leap Motion sensor and API.
+layout: default
+modal-id: 2
+date: 2014-01-02
+img: leap.png
+thumbnail: leap.png
+alt: image-alt
+project-date: April 2014
+category: Web Development
+link: http://www.github.com/pbardea/leaprps
+linkTitle: View on Github
+description: A game of rock paper scissors which allows you to play against a computer or another human by reading your fist configuration. Written in Javascript using the Leap Motion API.
+
+---

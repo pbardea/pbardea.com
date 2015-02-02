@@ -1,0 +1,16 @@
+---
+title: Democracity
+subtitle: Built the foundation of democracity.ca using the Ushahidi framework.
+layout: default
+modal-id: 3
+date: 2014-01-03
+img: democracity.png
+thumbnail: democracity.png
+alt: image-alt
+project-date: April 2011
+category: Web Development
+link: http://www.democracity.ca
+linkTitle: View democarcity.ca
+description: As my ICS4U (grade 12 level computer science) final examination we were tasked in building the foundation for a website that would be a forum where users could discuss and submit ideas about improving their city. My team's project, of which I was the main developer, was selected by the client and was used as the foundation of democracity.ca. In the process of making this project, I submitted fixes to the Ushahidi framework, most notably fixing their voting system which did not function properly. This was developed in PHP using the Ushahidi framework.
+
+---

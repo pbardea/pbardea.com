@@ -1,0 +1,16 @@
+---
+title: Grooveshark Player
+subtitle: A chrome web extension to control using playing from Grooveshark
+layout: default
+modal-id: 1
+date: 2014-01-01
+img: gs.png
+thumbnail: gs.png
+alt: image-alt
+project-date: November 2014
+category: Web Development
+link: http://www.github.com/nare469/gsplayer
+linkTitle: View on Github
+description: A chrome extension designed to control commands in an open Grooveshark tab without the need to navigate to that tab. Developed in HTML, CSS and Javascript.
+
+---

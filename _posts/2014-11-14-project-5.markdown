@@ -1,0 +1,15 @@
+---
+title: Doodler
+subtitle: A note taking web app with easy matrix and doodle inputs.
+layout: default
+modal-id: 5
+date: 2014-01-05
+img: doodler.png
+thumbnail: doodler.png
+alt: image-alt
+project-date: November 2014
+link: http://www.github.com/pbardea/doodler
+linkTitle: View on Github
+category: Web Development
+description: Doodler is a simple web application developed in HTML, CSS and Javascrip which allows users to add draggable canvases and matricies to a text based note taking page. A host of other features also implemented.
+---

@@ -1,0 +1,17 @@
+---
+title: Scribbler Tic Tac Toe
+subtitle: A game of tic tac toe, playable against a Scribbler robot
+layout: default
+modal-id: 4
+date: 2014-01-04
+img: scribbler.png
+thumbnail: scribbler.png
+alt: image-alt
+project-date: October 2014
+category: Python Development
+link: http://www.github.com/pbardea/scribbler
+linkTitle: View on Github
+description: The robot can understand user voice-input and parse the voice input to translate it into a command that can execute, such as where the user would like to go. The robot can play against you by going in a cell where it thinks it is appropriate, determined by its programmed internal logic (of which it has three levels - easy, medium and hard). Programmed using the python programming language and the speech recognition API for python.
+
+
+---
